@@ -220,11 +220,6 @@ footer{
 	width:100%;
 }
 
-.retorno{
-	float:right;
-	width: 80px;
-}
-
 @media screen and (max-width: 999px){
 	h2, a , a:link, a:visited{
 		color: #228b22;
